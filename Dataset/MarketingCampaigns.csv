@@ -1,0 +1,6 @@
+campaign_id,campaign_name,channel,campaign_budget
+C001,Google Search Campaign,Google Ads,50000
+C002,Facebook Awareness,Facebook Ads,40000
+C003,Email Retention,Email,15000
+C004,Organic SEO,Organic Search,20000
+C005,Retargeting Campaign,Retargeting,30000

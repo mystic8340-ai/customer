@@ -7,6 +7,11 @@ customer and order data.
 ## Repository contents
 
 - `Powerbi file/cust.pbix` — Power BI report.
+- `Dataset/CustomerCRM.csv` — customer signup dates, acquisition channels,
+  campaign IDs, and lead scores keyed by the Olist customer ID.
+- `Dataset/MarketingCampaigns.csv` — campaign names, channels, and budgets.
+- `Dataset/MarketingTouchpoints.csv` — customer marketing touch dates, channels,
+  and campaign IDs.
 - `Dataset/olist_customers_dataset.csv` — customer IDs, location prefixes, and
   city/state.
 - `Dataset/olist_orders_dataset.csv` — order status and order/delivery dates.
@@ -18,6 +23,8 @@ customer and order data.
   review dates.
 - `Dataset/olist_products_dataset.csv` — product categories, dimensions, and
   descriptive fields.
+- `Dataset/product_category_name_translation.csv` — Portuguese to English
+  product category names.
 
 ## Requirements
 
